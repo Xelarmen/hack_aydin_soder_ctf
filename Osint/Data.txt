@@ -1,0 +1,7 @@
+stajyer siber güvenlik analist arkadaşımız bir hackere ait harddiski incelerken eski yıllara ait bir metin dosyası buldu. metin dosyasının içerisinde aşağıdaki bilgi yazıyor.
+
+" ecel beni alsa da gözlerim kapansa da yıldızların altında seninle ilk buluştuğumuz noktadayım. ilk hack yaptığımız noktada. ben oradayım belki sen unuttun umarım bu adres seni bana getirecektir. 82:2a:a8:7b:6b:f1 " Elimizdeki ipucu : 82:2a:a8:7b:6b:f1
+
+flag{BULDUGUNUZDEGER2020!}
+
+https://www.youtube.com/watch?v=cIfrH0svpZc
